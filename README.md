@@ -1,6 +1,6 @@
 # Netflix Content Analysis Dashboard
 
-An interactive Tableau dashboard that explores the Netflix catalog by content type, genre, rating, country and the year titles were added.
+An interactive Tableau dashboard that explores the Netflix catalog by content type, genre, rating, country and the year titles.
 
 **[View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/piyush.gupta2451/viz/Netflix_Dashboard_17953323260200/NETFLIX)**
 
